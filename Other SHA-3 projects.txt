@@ -1,0 +1,36 @@
+SHA-3 IMPLS
+===========
+
+C#
+--
+
+https://www.codeplex.com/site/search?query=sha3&ac=4
+
+https://bitbucket.org/jdluzen/sha3
+https://www.nuget.org/packages/SHA3/
+
+https://hashlib.codeplex.com/
+https://www.nuget.org/packages/HashLib/
+
+https://github.com/drewjcooper/SHA3Net
+
+https://sha3.codeplex.com/
+
+https://www.nuget.org/packages/HashLibrary
+
+JavaScript
+----------
+
+https://github.com/drostie/sha3-js
+
+TEST VECTORS
+============
+
+https://github.com/CoiniumServ/HashLib/tree/master/MFCTest/TestVectors
+
+OTHER CRYPTO INFO
+=================
+
+http://security.stackexchange.com/questions/211/how-to-securely-hash-passwords/
+https://en.wikipedia.org/wiki/SHA-3
+https://en.wikipedia.org/wiki/SHA-2
